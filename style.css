@@ -1,13 +1,21 @@
 html, body{
-	background-color: yellow;
+	background-color:lightseagreen;
 	font-family: sans-serif;
-	color: red;
+	font-weight: bold;
+	color: black;
 	padding: 2em;
 }
 
 ol li{
 	margin-bottom: 1em;
+	font-style: italic;
 }
+
+ul li{
+	margin-top: 1em;
+	font-size: smaller;
+}
+
 
 ul li:first-child{
 	margin-top: 1em;
